@@ -1,0 +1,17 @@
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\ferne\OneDrive\Documentos\ProyectoCore\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
